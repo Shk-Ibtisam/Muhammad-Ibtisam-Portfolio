@@ -1,4 +1,4 @@
-Hi, I'm Muhammad Ibtisam 👋
+Hi, I'm Muhammad Ibtisam 
 
 Data Analyst | SQL • Power BI • Excel • Python
 
